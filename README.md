@@ -1,6 +1,6 @@
 # PHPHOOLIGANS
 
-Opinionated supporters of the languages.
+Opinionated supporters of the PHP languages.
 
 ## Introduction
 
