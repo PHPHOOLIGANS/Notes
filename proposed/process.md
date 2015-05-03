@@ -1,18 +1,10 @@
----
-permalink: /
----
+# PHPHOOLIGANS
 
- PHPHOOLIGANS
-==============
-
-> No code is good code!
-
+Opinionated supporters of the languages.
 
 ## Introduction
 
-This is the knowledge base of the PHPHOOLIGANS project.
-
-It contains the opinions that the PHPHOOLIGANS defend during their
+This project contains the opinions the PHPHOOLIGANS defend during their
 encounters with the community at large.
 
 Because true hooligans operate in the open, these opinions, the facts and
